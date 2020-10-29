@@ -3,5 +3,6 @@
 * Hesiod, Theogony 
 * Ovid, Metamorphoses
 * Homer, Iliad
+* Plato, Apology
 
 
