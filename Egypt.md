@@ -1,3 +1,3 @@
 # Egypt Mythology Primary Sources
 
-* Manetho / with an English translation by W.G. Waddell
+* The Pyramid Texts | 3100 BCE | [link](https://www.sacred-texts.com/egy/pyt/index.htm)
